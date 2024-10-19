@@ -1,11 +1,11 @@
 <img src="Volzeur-banner.png" style="width: 500px"></img>
-# Volzeur - Alternatif Frontend Gratis Bebas Iklan
+# Volzeur - Frontend Alternatif Gratis Bebas Iklan
 
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/Volzeur/Volzeur)
 
 ## 🎯 Tentang Proyek Ini
 
-**Volzeur** adalah sebuah proyek kecil yang menyediakan solusi alternatif untuk beberapa layanan populer seperti YouTube, YouTube Music, ChatGPT, Shortlink, CodePen, dan Google Translate dalam satu platform yang terintegrasi.
+**Volzeur** adalah sebuah proyek kecil yang menyediakan solusi alternatif untuk beberapa layanan populer seperti YouTube, YouTube Music, ChatGPT, Shortlink, CodePen, dan Google Translate dalam satu platform.
 
 Proyek ini dibangun untuk memberikan kebebasan dan fleksibilitas kepada pengguna yang ingin mengakses layanan-layanan ini tanpa batasan, serta menyediakan kontrol penuh terhadap data dan privasi.
 
