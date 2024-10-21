@@ -9,7 +9,7 @@
 
 Proyek ini dibangun untuk memberikan kebebasan dan fleksibilitas kepada pengguna yang ingin mengakses layanan-layanan ini tanpa batasan, serta menyediakan kontrol penuh terhadap data dan privasi.
 
-**Tidak ada data yang diambil, semua kegiatan dilakukan secara lokal di browser anda!**
+**Tidak ada data yang diambil, segala aktivitas dilakukan secara lokal di browser anda**
 
 ## ✨ Fitur Utama
 
