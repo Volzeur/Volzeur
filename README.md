@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/Volzeur/Volzeur)
 
 </img></h1>
-<h1 align="center" style="margin: 50px;">Volzeur - Frontend Alternatif Gratis Bebas Iklan</h1>
+<h1 align="center";">Volzeur - Frontend Alternatif Gratis Bebas Iklan</h1>
 
 ## 🎯 Tentang Proyek Ini
 
