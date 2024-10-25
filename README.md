@@ -1,7 +1,9 @@
 <h1 align="center"><img src="Volzeur-banner.png" width="350px"></img></h1>
 <h1 align="center">Volzeur - Frontend Alternatif Gratis Bebas Iklan</h1>
 
+<h1 align="center">
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/Volzeur/Volzeur)
+</h1>
 
 ## 🎯 Tentang Proyek Ini
 
